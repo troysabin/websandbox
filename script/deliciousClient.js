@@ -6,12 +6,11 @@ define(["jquery"], function($) {
 
 
 	return {
-		bookmarks: [{d:"one"}],
-		update: function(callback) {
+		getBookmarks: function(callback) {
 
 			$.getJSON(url).done(function(data) {
 
-				bookmarks = [];
+				var bookmarks = [];
 				$.each(data, function(index) {
 					bookmarks.push(this);					
 				});
