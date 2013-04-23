@@ -11,8 +11,8 @@ define(["jquery"], function($) {
 			$.getJSON(url).done(function(data) {
 
 				var bookmarks = [];
-				$.each(data, function(index) {
-					bookmarks.push(this);					
+				data.forEach(function(bookmark) {
+					bookmarks.push(bookmark);					
 				});
 				
 				callback(bookmarks);
