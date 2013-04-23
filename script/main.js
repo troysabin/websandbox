@@ -6,7 +6,7 @@ require(["jquery", "deliciousClient"], function($, delicious) {
         $('body').append("success");
         delicious.getBookmarks( function(bookmarks) {
         	$.each(bookmarks, function() {
-	        	$('body').append('<p>' + this.d + '</p>');
+	        	$('body').append('<p>' + this.d + '</p>'); 
 	        });
 
         });        
