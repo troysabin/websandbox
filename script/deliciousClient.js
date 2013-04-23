@@ -9,14 +9,15 @@ define(["jquery"], function($) {
 		bookmarks: [{d:"one"}],
 		update: function(callback) {
 
-			$.getJSON(url, function(data) {
+			$.getJSON(url).done(function(data) {
 
 				bookmarks = [];
 				$.each(data, function(index) {
 					bookmarks.push(this);					
 				});
-				  
-			}).done(callback);
+				
+				callback(bookmarks);
+			});
 
 		}
 	};        

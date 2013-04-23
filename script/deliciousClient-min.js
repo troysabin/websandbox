@@ -1,0 +1,1 @@
+define(["jquery"],function(e){var t="http://feeds.delicious.com/v2/json/troy.sabin?callback=?";return{bookmarks:[{d:"one"}],update:function(n){e.getJSON(t).done(function(t){bookmarks=[];e.each(t,function(e){bookmarks.push(this)});n(bookmarks)})}}});

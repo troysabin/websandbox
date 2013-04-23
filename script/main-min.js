@@ -1,0 +1,1 @@
+require(["jquery","deliciousClient"],function(e,t){e(function(){e("body").append("success");t.update(function(n){t.bookmarks=n;e.each(t.bookmarks,function(){e("body").append("<p>"+this.d+"</p>")})})})});
