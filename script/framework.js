@@ -1,1 +1,1 @@
-//@codekit-append "require-jquery.js"
+//@codekit-append "require-jquery.js";
