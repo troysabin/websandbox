@@ -1,0 +1,2072 @@
+[
+  {
+    "created_at": "Tue Apr 23 00:03:54 +0000 2013",
+    "id": 326486553545289700,
+    "id_str": "326486553545289728",
+    "text": "Interesting option for consistent UX styling across native and HTML5 mobile apps. http://t.co/l955xfLuqr",
+    "source": "<a href=\"http://itunes.apple.com/us/app/mr.-reader/id412874834?mt=8&uo=4\" rel=\"nofollow\">Mr. Reader on iOS</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 16655879,
+      "id_str": "16655879",
+      "name": "Troy Sabin",
+      "screen_name": "troysabin",
+      "location": "Texas",
+      "description": "Founder of Mediassembly, an interactive media idea and technology incubator.  Also Mobility and Custom App Dev Practice Director with Neudesic.",
+      "url": "http://troysabin.com",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://troysabin.com",
+              "expanded_url": null,
+              "indices": [
+                0,
+                20
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 101,
+      "friends_count": 101,
+      "listed_count": 2,
+      "created_at": "Wed Oct 08 20:39:50 +0000 2008",
+      "favourites_count": 47,
+      "utc_offset": -21600,
+      "time_zone": "Central Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 198,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/391776257/tile.gif",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/391776257/tile.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://a0.twimg.com/profile_images/61543340/LinkedIn-Profile_normal.jpg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/61543340/LinkedIn-Profile_normal.jpg",
+      "profile_link_color": "46758A",
+      "profile_sidebar_border_color": "2B475C",
+      "profile_sidebar_fill_color": "DDE5EB",
+      "profile_text_color": "304A57",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/l955xfLuqr",
+          "expanded_url": "http://bit.ly/11wTm4K",
+          "display_url": "bit.ly/11wTm4K",
+          "indices": [
+            82,
+            104
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Apr 08 19:56:42 +0000 2013",
+    "id": 321350912998244350,
+    "id_str": "321350912998244352",
+    "text": "Performance Checklist for the Mobile Web http://t.co/Afe1169rtg (from Google)",
+    "source": "<a href=\"http://bitly.com\" rel=\"nofollow\">bitly</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 16655879,
+      "id_str": "16655879",
+      "name": "Troy Sabin",
+      "screen_name": "troysabin",
+      "location": "Texas",
+      "description": "Founder of Mediassembly, an interactive media idea and technology incubator.  Also Mobility and Custom App Dev Practice Director with Neudesic.",
+      "url": "http://troysabin.com",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://troysabin.com",
+              "expanded_url": null,
+              "indices": [
+                0,
+                20
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 101,
+      "friends_count": 101,
+      "listed_count": 2,
+      "created_at": "Wed Oct 08 20:39:50 +0000 2008",
+      "favourites_count": 47,
+      "utc_offset": -21600,
+      "time_zone": "Central Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 198,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/391776257/tile.gif",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/391776257/tile.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://a0.twimg.com/profile_images/61543340/LinkedIn-Profile_normal.jpg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/61543340/LinkedIn-Profile_normal.jpg",
+      "profile_link_color": "46758A",
+      "profile_sidebar_border_color": "2B475C",
+      "profile_sidebar_fill_color": "DDE5EB",
+      "profile_text_color": "304A57",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/Afe1169rtg",
+          "expanded_url": "http://bit.ly/12BSuvi",
+          "display_url": "bit.ly/12BSuvi",
+          "indices": [
+            41,
+            63
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Mar 19 04:42:49 +0000 2013",
+    "id": 313873169637322750,
+    "id_str": "313873169637322752",
+    "text": "RT @amyjokim: The product design sprint: a five-day recipe for startups http://t.co/GPQfdTL8qc super-useful process ideas from @GoogleVe ...",
+    "source": "<a href=\"http://www.flipboard.com\" rel=\"nofollow\">Flipboard</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 16655879,
+      "id_str": "16655879",
+      "name": "Troy Sabin",
+      "screen_name": "troysabin",
+      "location": "Texas",
+      "description": "Founder of Mediassembly, an interactive media idea and technology incubator.  Also Mobility and Custom App Dev Practice Director with Neudesic.",
+      "url": "http://troysabin.com",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://troysabin.com",
+              "expanded_url": null,
+              "indices": [
+                0,
+                20
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 101,
+      "friends_count": 101,
+      "listed_count": 2,
+      "created_at": "Wed Oct 08 20:39:50 +0000 2008",
+      "favourites_count": 47,
+      "utc_offset": -21600,
+      "time_zone": "Central Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 198,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/391776257/tile.gif",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/391776257/tile.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://a0.twimg.com/profile_images/61543340/LinkedIn-Profile_normal.jpg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/61543340/LinkedIn-Profile_normal.jpg",
+      "profile_link_color": "46758A",
+      "profile_sidebar_border_color": "2B475C",
+      "profile_sidebar_fill_color": "DDE5EB",
+      "profile_text_color": "304A57",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Mar 08 13:09:07 +0000 2013",
+      "id": 310014317703594000,
+      "id_str": "310014317703593984",
+      "text": "The product design sprint: a five-day recipe for startups http://t.co/GPQfdTL8qc super-useful process ideas from @GoogleVentures design team",
+      "source": "web",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 780991,
+        "id_str": "780991",
+        "name": "Amy Jo Kim",
+        "screen_name": "amyjokim",
+        "location": "Burlingame, CA",
+        "description": "Game Designer, Bass Player, Mom",
+        "url": "http://t.co/caAdlQH2",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/caAdlQH2",
+                "expanded_url": "http://about.me/amyjokim",
+                "display_url": "about.me/amyjokim",
+                "indices": [
+                  0,
+                  20
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 9769,
+        "friends_count": 467,
+        "listed_count": 703,
+        "created_at": "Mon Feb 19 20:10:11 +0000 2007",
+        "favourites_count": 1189,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 10076,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://a0.twimg.com/profile_background_images/2952624/graffiti2.jpg",
+        "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/2952624/graffiti2.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://a0.twimg.com/profile_images/1789001732/ajk-headshot2_normal.jpg",
+        "profile_image_url_https": "https://si0.twimg.com/profile_images/1789001732/ajk-headshot2_normal.jpg",
+        "profile_banner_url": "https://si0.twimg.com/profile_banners/780991/1357675518",
+        "profile_link_color": "0000FF",
+        "profile_sidebar_border_color": "87BC44",
+        "profile_sidebar_fill_color": "E0FF92",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": false,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "086752cb03de1d5d",
+        "url": "https://api.twitter.com/1.1/geo/id/086752cb03de1d5d.json",
+        "place_type": "city",
+        "name": "Manhattan",
+        "full_name": "Manhattan, NY",
+        "country_code": "US",
+        "country": "United States",
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -74.047285,
+                40.679548
+              ],
+              [
+                -73.907,
+                40.679548
+              ],
+              [
+                -73.907,
+                40.882214
+              ],
+              [
+                -74.047285,
+                40.882214
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "retweet_count": 7,
+      "favorite_count": 14,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/GPQfdTL8qc",
+            "expanded_url": "http://bit.ly/QoAQ98",
+            "display_url": "bit.ly/QoAQ98",
+            "indices": [
+              58,
+              80
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "GoogleVentures",
+            "name": "Google Ventures",
+            "id": 27814665,
+            "id_str": "27814665",
+            "indices": [
+              113,
+              128
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 7,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/GPQfdTL8qc",
+          "expanded_url": "http://bit.ly/QoAQ98",
+          "display_url": "bit.ly/QoAQ98",
+          "indices": [
+            72,
+            94
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "amyjokim",
+          "name": "Amy Jo Kim",
+          "id": 780991,
+          "id_str": "780991",
+          "indices": [
+            3,
+            12
+          ]
+        },
+        {
+          "screen_name": "googleve",
+          "name": "monique",
+          "id": 80119743,
+          "id_str": "80119743",
+          "indices": [
+            127,
+            136
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Mar 09 18:32:15 +0000 2013",
+    "id": 310458022151462900,
+    "id_str": "310458022151462913",
+    "text": "Impressive 50mb conference WiFi at #sxsw",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 16655879,
+      "id_str": "16655879",
+      "name": "Troy Sabin",
+      "screen_name": "troysabin",
+      "location": "Texas",
+      "description": "Founder of Mediassembly, an interactive media idea and technology incubator.  Also Mobility and Custom App Dev Practice Director with Neudesic.",
+      "url": "http://troysabin.com",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://troysabin.com",
+              "expanded_url": null,
+              "indices": [
+                0,
+                20
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 101,
+      "friends_count": 101,
+      "listed_count": 2,
+      "created_at": "Wed Oct 08 20:39:50 +0000 2008",
+      "favourites_count": 47,
+      "utc_offset": -21600,
+      "time_zone": "Central Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 198,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/391776257/tile.gif",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/391776257/tile.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://a0.twimg.com/profile_images/61543340/LinkedIn-Profile_normal.jpg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/61543340/LinkedIn-Profile_normal.jpg",
+      "profile_link_color": "46758A",
+      "profile_sidebar_border_color": "2B475C",
+      "profile_sidebar_fill_color": "DDE5EB",
+      "profile_text_color": "304A57",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "sxsw",
+          "indices": [
+            35,
+            40
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Mar 09 18:30:22 +0000 2013",
+    "id": 310457549805744100,
+    "id_str": "310457549805744129",
+    "text": "At #sxsw interactive.  Invasion of the skinny jeans!",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 16655879,
+      "id_str": "16655879",
+      "name": "Troy Sabin",
+      "screen_name": "troysabin",
+      "location": "Texas",
+      "description": "Founder of Mediassembly, an interactive media idea and technology incubator.  Also Mobility and Custom App Dev Practice Director with Neudesic.",
+      "url": "http://troysabin.com",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://troysabin.com",
+              "expanded_url": null,
+              "indices": [
+                0,
+                20
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 101,
+      "friends_count": 101,
+      "listed_count": 2,
+      "created_at": "Wed Oct 08 20:39:50 +0000 2008",
+      "favourites_count": 47,
+      "utc_offset": -21600,
+      "time_zone": "Central Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 198,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/391776257/tile.gif",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/391776257/tile.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://a0.twimg.com/profile_images/61543340/LinkedIn-Profile_normal.jpg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/61543340/LinkedIn-Profile_normal.jpg",
+      "profile_link_color": "46758A",
+      "profile_sidebar_border_color": "2B475C",
+      "profile_sidebar_fill_color": "DDE5EB",
+      "profile_text_color": "304A57",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "sxsw",
+          "indices": [
+            3,
+            8
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Feb 28 00:56:06 +0000 2013",
+    "id": 306930742825459700,
+    "id_str": "306930742825459712",
+    "text": "Impressive statistics on the impact of responsive re-designs.  http://t.co/QkUTjs0fWk",
+    "source": "<a href=\"http://itunes.apple.com/us/app/mr.-reader/id412874834?mt=8&uo=4\" rel=\"nofollow\">Mr. Reader on iOS</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 16655879,
+      "id_str": "16655879",
+      "name": "Troy Sabin",
+      "screen_name": "troysabin",
+      "location": "Texas",
+      "description": "Founder of Mediassembly, an interactive media idea and technology incubator.  Also Mobility and Custom App Dev Practice Director with Neudesic.",
+      "url": "http://troysabin.com",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://troysabin.com",
+              "expanded_url": null,
+              "indices": [
+                0,
+                20
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 101,
+      "friends_count": 101,
+      "listed_count": 2,
+      "created_at": "Wed Oct 08 20:39:50 +0000 2008",
+      "favourites_count": 47,
+      "utc_offset": -21600,
+      "time_zone": "Central Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 198,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/391776257/tile.gif",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/391776257/tile.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://a0.twimg.com/profile_images/61543340/LinkedIn-Profile_normal.jpg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/61543340/LinkedIn-Profile_normal.jpg",
+      "profile_link_color": "46758A",
+      "profile_sidebar_border_color": "2B475C",
+      "profile_sidebar_fill_color": "DDE5EB",
+      "profile_text_color": "304A57",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/QkUTjs0fWk",
+          "expanded_url": "http://bit.ly/WsiCEX",
+          "display_url": "bit.ly/WsiCEX",
+          "indices": [
+            63,
+            85
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Feb 03 20:49:11 +0000 2012",
+    "id": 165537336938086400,
+    "id_str": "165537336938086400",
+    "text": "If you're a parent who loves music, check this out.  http://t.co/qwSKgU0J I so wish I could do that!",
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 16655879,
+      "id_str": "16655879",
+      "name": "Troy Sabin",
+      "screen_name": "troysabin",
+      "location": "Texas",
+      "description": "Founder of Mediassembly, an interactive media idea and technology incubator.  Also Mobility and Custom App Dev Practice Director with Neudesic.",
+      "url": "http://troysabin.com",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://troysabin.com",
+              "expanded_url": null,
+              "indices": [
+                0,
+                20
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 101,
+      "friends_count": 101,
+      "listed_count": 2,
+      "created_at": "Wed Oct 08 20:39:50 +0000 2008",
+      "favourites_count": 47,
+      "utc_offset": -21600,
+      "time_zone": "Central Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 198,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/391776257/tile.gif",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/391776257/tile.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://a0.twimg.com/profile_images/61543340/LinkedIn-Profile_normal.jpg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/61543340/LinkedIn-Profile_normal.jpg",
+      "profile_link_color": "46758A",
+      "profile_sidebar_border_color": "2B475C",
+      "profile_sidebar_fill_color": "DDE5EB",
+      "profile_text_color": "304A57",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/qwSKgU0J",
+          "expanded_url": "http://vocamus.net/dave/?p=1438",
+          "display_url": "vocamus.net/dave/?p=1438",
+          "indices": [
+            53,
+            73
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Jan 24 23:47:24 +0000 2012",
+    "id": 161958309656666100,
+    "id_str": "161958309656666113",
+    "text": "Good analysis from Adobe on choosing between web and native mobile apps.  http://t.co/qYA54w6K",
+    "source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">Safari on iOS</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 16655879,
+      "id_str": "16655879",
+      "name": "Troy Sabin",
+      "screen_name": "troysabin",
+      "location": "Texas",
+      "description": "Founder of Mediassembly, an interactive media idea and technology incubator.  Also Mobility and Custom App Dev Practice Director with Neudesic.",
+      "url": "http://troysabin.com",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://troysabin.com",
+              "expanded_url": null,
+              "indices": [
+                0,
+                20
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 101,
+      "friends_count": 101,
+      "listed_count": 2,
+      "created_at": "Wed Oct 08 20:39:50 +0000 2008",
+      "favourites_count": 47,
+      "utc_offset": -21600,
+      "time_zone": "Central Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 198,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/391776257/tile.gif",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/391776257/tile.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://a0.twimg.com/profile_images/61543340/LinkedIn-Profile_normal.jpg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/61543340/LinkedIn-Profile_normal.jpg",
+      "profile_link_color": "46758A",
+      "profile_sidebar_border_color": "2B475C",
+      "profile_sidebar_fill_color": "DDE5EB",
+      "profile_text_color": "304A57",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/qYA54w6K",
+          "expanded_url": "http://www.adobe.com/newsletters/inspire/february2012/articles/article7/index.html?trackingid=JOTGZ",
+          "display_url": "adobe.com/newsletters/inâ€¦",
+          "indices": [
+            74,
+            94
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Jan 08 20:13:35 +0000 2012",
+    "id": 156106292698681340,
+    "id_str": "156106292698681345",
+    "text": "The Code Commandments: Best Practices for Objective-C Coding | Ironwolf http://t.co/zVXXxDNA",
+    "source": "<a href=\"http://bitly.com\" rel=\"nofollow\">bitly</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 16655879,
+      "id_str": "16655879",
+      "name": "Troy Sabin",
+      "screen_name": "troysabin",
+      "location": "Texas",
+      "description": "Founder of Mediassembly, an interactive media idea and technology incubator.  Also Mobility and Custom App Dev Practice Director with Neudesic.",
+      "url": "http://troysabin.com",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://troysabin.com",
+              "expanded_url": null,
+              "indices": [
+                0,
+                20
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 101,
+      "friends_count": 101,
+      "listed_count": 2,
+      "created_at": "Wed Oct 08 20:39:50 +0000 2008",
+      "favourites_count": 47,
+      "utc_offset": -21600,
+      "time_zone": "Central Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 198,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/391776257/tile.gif",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/391776257/tile.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://a0.twimg.com/profile_images/61543340/LinkedIn-Profile_normal.jpg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/61543340/LinkedIn-Profile_normal.jpg",
+      "profile_link_color": "46758A",
+      "profile_sidebar_border_color": "2B475C",
+      "profile_sidebar_fill_color": "DDE5EB",
+      "profile_text_color": "304A57",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/zVXXxDNA",
+          "expanded_url": "http://bit.ly/zgE4CM",
+          "display_url": "bit.ly/zgE4CM",
+          "indices": [
+            72,
+            92
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Dec 20 22:14:22 +0000 2011",
+    "id": 149251322875621380,
+    "id_str": "149251322875621376",
+    "text": "A JavaScript port of the native iOS UIGestureRecognizer API for handling touch gestures in mobile web apps. http://t.co/QWwDtQOp",
+    "source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">Safari on iOS</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 16655879,
+      "id_str": "16655879",
+      "name": "Troy Sabin",
+      "screen_name": "troysabin",
+      "location": "Texas",
+      "description": "Founder of Mediassembly, an interactive media idea and technology incubator.  Also Mobility and Custom App Dev Practice Director with Neudesic.",
+      "url": "http://troysabin.com",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://troysabin.com",
+              "expanded_url": null,
+              "indices": [
+                0,
+                20
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 101,
+      "friends_count": 101,
+      "listed_count": 2,
+      "created_at": "Wed Oct 08 20:39:50 +0000 2008",
+      "favourites_count": 47,
+      "utc_offset": -21600,
+      "time_zone": "Central Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 198,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/391776257/tile.gif",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/391776257/tile.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://a0.twimg.com/profile_images/61543340/LinkedIn-Profile_normal.jpg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/61543340/LinkedIn-Profile_normal.jpg",
+      "profile_link_color": "46758A",
+      "profile_sidebar_border_color": "2B475C",
+      "profile_sidebar_fill_color": "DDE5EB",
+      "profile_text_color": "304A57",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/QWwDtQOp",
+          "expanded_url": "http://mud.mitplw.com/JSGestureRecognizer/",
+          "display_url": "mud.mitplw.com/JSGestureRecogâ€¦",
+          "indices": [
+            108,
+            128
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Dec 14 22:36:50 +0000 2011",
+    "id": 147082649121472500,
+    "id_str": "147082649121472512",
+    "text": "Polyfilling The #HTML5 Gaps With #JavaScript http://t.co/3ZYCBaba",
+    "source": "<a href=\"http://reederapp.com\" rel=\"nofollow\">Reeder</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 16655879,
+      "id_str": "16655879",
+      "name": "Troy Sabin",
+      "screen_name": "troysabin",
+      "location": "Texas",
+      "description": "Founder of Mediassembly, an interactive media idea and technology incubator.  Also Mobility and Custom App Dev Practice Director with Neudesic.",
+      "url": "http://troysabin.com",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://troysabin.com",
+              "expanded_url": null,
+              "indices": [
+                0,
+                20
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 101,
+      "friends_count": 101,
+      "listed_count": 2,
+      "created_at": "Wed Oct 08 20:39:50 +0000 2008",
+      "favourites_count": 47,
+      "utc_offset": -21600,
+      "time_zone": "Central Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 198,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/391776257/tile.gif",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/391776257/tile.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://a0.twimg.com/profile_images/61543340/LinkedIn-Profile_normal.jpg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/61543340/LinkedIn-Profile_normal.jpg",
+      "profile_link_color": "46758A",
+      "profile_sidebar_border_color": "2B475C",
+      "profile_sidebar_fill_color": "DDE5EB",
+      "profile_text_color": "304A57",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "HTML5",
+          "indices": [
+            16,
+            22
+          ]
+        },
+        {
+          "text": "JavaScript",
+          "indices": [
+            33,
+            44
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/3ZYCBaba",
+          "expanded_url": "http://j.mp/uujX3P",
+          "display_url": "j.mp/uujX3P",
+          "indices": [
+            45,
+            65
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Dec 13 18:18:12 +0000 2011",
+    "id": 146655171999563780,
+    "id_str": "146655171999563776",
+    "text": "Windows Azure Adds Node.js Support, Hadoop Preview http://t.co/dKgdNMFi",
+    "source": "<a href=\"http://reederapp.com\" rel=\"nofollow\">Reeder</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 16655879,
+      "id_str": "16655879",
+      "name": "Troy Sabin",
+      "screen_name": "troysabin",
+      "location": "Texas",
+      "description": "Founder of Mediassembly, an interactive media idea and technology incubator.  Also Mobility and Custom App Dev Practice Director with Neudesic.",
+      "url": "http://troysabin.com",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://troysabin.com",
+              "expanded_url": null,
+              "indices": [
+                0,
+                20
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 101,
+      "friends_count": 101,
+      "listed_count": 2,
+      "created_at": "Wed Oct 08 20:39:50 +0000 2008",
+      "favourites_count": 47,
+      "utc_offset": -21600,
+      "time_zone": "Central Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 198,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/391776257/tile.gif",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/391776257/tile.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://a0.twimg.com/profile_images/61543340/LinkedIn-Profile_normal.jpg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/61543340/LinkedIn-Profile_normal.jpg",
+      "profile_link_color": "46758A",
+      "profile_sidebar_border_color": "2B475C",
+      "profile_sidebar_fill_color": "DDE5EB",
+      "profile_text_color": "304A57",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/dKgdNMFi",
+          "expanded_url": "http://j.mp/vgW7LO",
+          "display_url": "j.mp/vgW7LO",
+          "indices": [
+            51,
+            71
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Dec 12 22:39:40 +0000 2011",
+    "id": 146358584979099650,
+    "id_str": "146358584979099649",
+    "text": "An Introduction To Object Oriented CSS (OOCSS) http://t.co/gazPB5Ch",
+    "source": "<a href=\"http://reederapp.com\" rel=\"nofollow\">Reeder</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 16655879,
+      "id_str": "16655879",
+      "name": "Troy Sabin",
+      "screen_name": "troysabin",
+      "location": "Texas",
+      "description": "Founder of Mediassembly, an interactive media idea and technology incubator.  Also Mobility and Custom App Dev Practice Director with Neudesic.",
+      "url": "http://troysabin.com",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://troysabin.com",
+              "expanded_url": null,
+              "indices": [
+                0,
+                20
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 101,
+      "friends_count": 101,
+      "listed_count": 2,
+      "created_at": "Wed Oct 08 20:39:50 +0000 2008",
+      "favourites_count": 47,
+      "utc_offset": -21600,
+      "time_zone": "Central Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 198,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/391776257/tile.gif",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/391776257/tile.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://a0.twimg.com/profile_images/61543340/LinkedIn-Profile_normal.jpg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/61543340/LinkedIn-Profile_normal.jpg",
+      "profile_link_color": "46758A",
+      "profile_sidebar_border_color": "2B475C",
+      "profile_sidebar_fill_color": "DDE5EB",
+      "profile_text_color": "304A57",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/gazPB5Ch",
+          "expanded_url": "http://j.mp/uMBsOv",
+          "display_url": "j.mp/uMBsOv",
+          "indices": [
+            47,
+            67
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Dec 09 00:03:49 +0000 2011",
+    "id": 144930211786534900,
+    "id_str": "144930211786534912",
+    "text": "How to use Firebug on your iPad/iPhone.  http://t.co/yP6Ldv5h",
+    "source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">Safari on iOS</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 16655879,
+      "id_str": "16655879",
+      "name": "Troy Sabin",
+      "screen_name": "troysabin",
+      "location": "Texas",
+      "description": "Founder of Mediassembly, an interactive media idea and technology incubator.  Also Mobility and Custom App Dev Practice Director with Neudesic.",
+      "url": "http://troysabin.com",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://troysabin.com",
+              "expanded_url": null,
+              "indices": [
+                0,
+                20
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 101,
+      "friends_count": 101,
+      "listed_count": 2,
+      "created_at": "Wed Oct 08 20:39:50 +0000 2008",
+      "favourites_count": 47,
+      "utc_offset": -21600,
+      "time_zone": "Central Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 198,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/391776257/tile.gif",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/391776257/tile.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://a0.twimg.com/profile_images/61543340/LinkedIn-Profile_normal.jpg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/61543340/LinkedIn-Profile_normal.jpg",
+      "profile_link_color": "46758A",
+      "profile_sidebar_border_color": "2B475C",
+      "profile_sidebar_fill_color": "DDE5EB",
+      "profile_text_color": "304A57",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/yP6Ldv5h",
+          "expanded_url": "http://martinkool.com/post/13629963755/firebug-on-ipad-and-iphone",
+          "display_url": "martinkool.com/post/136299637â€¦",
+          "indices": [
+            41,
+            61
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Dec 04 20:47:49 +0000 2011",
+    "id": 143431333090299900,
+    "id_str": "143431333090299905",
+    "text": "Resources to run Open Source Stacks on Windows Azure - http://t.co/z68EJS0r",
+    "source": "<a href=\"http://reederapp.com\" rel=\"nofollow\">Reeder</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 16655879,
+      "id_str": "16655879",
+      "name": "Troy Sabin",
+      "screen_name": "troysabin",
+      "location": "Texas",
+      "description": "Founder of Mediassembly, an interactive media idea and technology incubator.  Also Mobility and Custom App Dev Practice Director with Neudesic.",
+      "url": "http://troysabin.com",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://troysabin.com",
+              "expanded_url": null,
+              "indices": [
+                0,
+                20
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 101,
+      "friends_count": 101,
+      "listed_count": 2,
+      "created_at": "Wed Oct 08 20:39:50 +0000 2008",
+      "favourites_count": 47,
+      "utc_offset": -21600,
+      "time_zone": "Central Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 198,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/391776257/tile.gif",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/391776257/tile.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://a0.twimg.com/profile_images/61543340/LinkedIn-Profile_normal.jpg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/61543340/LinkedIn-Profile_normal.jpg",
+      "profile_link_color": "46758A",
+      "profile_sidebar_border_color": "2B475C",
+      "profile_sidebar_fill_color": "DDE5EB",
+      "profile_text_color": "304A57",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/z68EJS0r",
+          "expanded_url": "http://j.mp/sKqF2E",
+          "display_url": "j.mp/sKqF2E",
+          "indices": [
+            55,
+            75
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Nov 28 04:52:48 +0000 2011",
+    "id": 141016668775264260,
+    "id_str": "141016668775264256",
+    "text": "Google Closure Stylesheets - Google's version of SAAS and LESS-CSS just released. http://t.co/DHqRPkPR",
+    "source": "<a href=\"http://reederapp.com\" rel=\"nofollow\">Reeder</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 16655879,
+      "id_str": "16655879",
+      "name": "Troy Sabin",
+      "screen_name": "troysabin",
+      "location": "Texas",
+      "description": "Founder of Mediassembly, an interactive media idea and technology incubator.  Also Mobility and Custom App Dev Practice Director with Neudesic.",
+      "url": "http://troysabin.com",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://troysabin.com",
+              "expanded_url": null,
+              "indices": [
+                0,
+                20
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 101,
+      "friends_count": 101,
+      "listed_count": 2,
+      "created_at": "Wed Oct 08 20:39:50 +0000 2008",
+      "favourites_count": 47,
+      "utc_offset": -21600,
+      "time_zone": "Central Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 198,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/391776257/tile.gif",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/391776257/tile.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://a0.twimg.com/profile_images/61543340/LinkedIn-Profile_normal.jpg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/61543340/LinkedIn-Profile_normal.jpg",
+      "profile_link_color": "46758A",
+      "profile_sidebar_border_color": "2B475C",
+      "profile_sidebar_fill_color": "DDE5EB",
+      "profile_text_color": "304A57",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/DHqRPkPR",
+          "expanded_url": "http://j.mp/sSByAA",
+          "display_url": "j.mp/sSByAA",
+          "indices": [
+            82,
+            102
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Nov 28 04:39:40 +0000 2011",
+    "id": 141013365697937400,
+    "id_str": "141013365697937409",
+    "text": "AppMobi Open Sourcing All Its HTML5 APIs. http://t.co/RPhPMAfl",
+    "source": "<a href=\"http://reederapp.com\" rel=\"nofollow\">Reeder</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 16655879,
+      "id_str": "16655879",
+      "name": "Troy Sabin",
+      "screen_name": "troysabin",
+      "location": "Texas",
+      "description": "Founder of Mediassembly, an interactive media idea and technology incubator.  Also Mobility and Custom App Dev Practice Director with Neudesic.",
+      "url": "http://troysabin.com",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://troysabin.com",
+              "expanded_url": null,
+              "indices": [
+                0,
+                20
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 101,
+      "friends_count": 101,
+      "listed_count": 2,
+      "created_at": "Wed Oct 08 20:39:50 +0000 2008",
+      "favourites_count": 47,
+      "utc_offset": -21600,
+      "time_zone": "Central Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 198,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/391776257/tile.gif",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/391776257/tile.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://a0.twimg.com/profile_images/61543340/LinkedIn-Profile_normal.jpg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/61543340/LinkedIn-Profile_normal.jpg",
+      "profile_link_color": "46758A",
+      "profile_sidebar_border_color": "2B475C",
+      "profile_sidebar_fill_color": "DDE5EB",
+      "profile_text_color": "304A57",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/RPhPMAfl",
+          "expanded_url": "http://j.mp/sLZU9X",
+          "display_url": "j.mp/sLZU9X",
+          "indices": [
+            42,
+            62
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Nov 28 03:26:11 +0000 2011",
+    "id": 140994871421976580,
+    "id_str": "140994871421976577",
+    "text": "iWebInspector: Debugging webapps and PhoneGap apps on iOS http://t.co/kHcrw47u",
+    "source": "<a href=\"http://reederapp.com\" rel=\"nofollow\">Reeder</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 16655879,
+      "id_str": "16655879",
+      "name": "Troy Sabin",
+      "screen_name": "troysabin",
+      "location": "Texas",
+      "description": "Founder of Mediassembly, an interactive media idea and technology incubator.  Also Mobility and Custom App Dev Practice Director with Neudesic.",
+      "url": "http://troysabin.com",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://troysabin.com",
+              "expanded_url": null,
+              "indices": [
+                0,
+                20
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 101,
+      "friends_count": 101,
+      "listed_count": 2,
+      "created_at": "Wed Oct 08 20:39:50 +0000 2008",
+      "favourites_count": 47,
+      "utc_offset": -21600,
+      "time_zone": "Central Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 198,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/391776257/tile.gif",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/391776257/tile.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://a0.twimg.com/profile_images/61543340/LinkedIn-Profile_normal.jpg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/61543340/LinkedIn-Profile_normal.jpg",
+      "profile_link_color": "46758A",
+      "profile_sidebar_border_color": "2B475C",
+      "profile_sidebar_fill_color": "DDE5EB",
+      "profile_text_color": "304A57",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/kHcrw47u",
+          "expanded_url": "http://j.mp/sin7RO",
+          "display_url": "j.mp/sin7RO",
+          "indices": [
+            58,
+            78
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Nov 16 20:35:23 +0000 2011",
+    "id": 136905222944600060,
+    "id_str": "136905222944600064",
+    "text": "Get schooled on iOS 5 development through a free course at Stanford.  http://t.co/fZ1sHlH0. That's how I got started.",
+    "source": "<a href=\"http://reederapp.com\" rel=\"nofollow\">Reeder</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 16655879,
+      "id_str": "16655879",
+      "name": "Troy Sabin",
+      "screen_name": "troysabin",
+      "location": "Texas",
+      "description": "Founder of Mediassembly, an interactive media idea and technology incubator.  Also Mobility and Custom App Dev Practice Director with Neudesic.",
+      "url": "http://troysabin.com",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://troysabin.com",
+              "expanded_url": null,
+              "indices": [
+                0,
+                20
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 101,
+      "friends_count": 101,
+      "listed_count": 2,
+      "created_at": "Wed Oct 08 20:39:50 +0000 2008",
+      "favourites_count": 47,
+      "utc_offset": -21600,
+      "time_zone": "Central Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 198,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/391776257/tile.gif",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/391776257/tile.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://a0.twimg.com/profile_images/61543340/LinkedIn-Profile_normal.jpg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/61543340/LinkedIn-Profile_normal.jpg",
+      "profile_link_color": "46758A",
+      "profile_sidebar_border_color": "2B475C",
+      "profile_sidebar_fill_color": "DDE5EB",
+      "profile_text_color": "304A57",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/fZ1sHlH0",
+          "expanded_url": "http://j.mp/tMmBJI",
+          "display_url": "j.mp/tMmBJI",
+          "indices": [
+            70,
+            90
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Nov 07 23:58:51 +0000 2011",
+    "id": 133694936561369090,
+    "id_str": "133694936561369088",
+    "text": "First Stable Build of NodeJs on Windows Released  http://t.co/bRQ44Iy3",
+    "source": "<a href=\"http://twitter.com/tweetbutton\" rel=\"nofollow\">Tweet Button</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 16655879,
+      "id_str": "16655879",
+      "name": "Troy Sabin",
+      "screen_name": "troysabin",
+      "location": "Texas",
+      "description": "Founder of Mediassembly, an interactive media idea and technology incubator.  Also Mobility and Custom App Dev Practice Director with Neudesic.",
+      "url": "http://troysabin.com",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://troysabin.com",
+              "expanded_url": null,
+              "indices": [
+                0,
+                20
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 101,
+      "friends_count": 101,
+      "listed_count": 2,
+      "created_at": "Wed Oct 08 20:39:50 +0000 2008",
+      "favourites_count": 47,
+      "utc_offset": -21600,
+      "time_zone": "Central Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 198,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/391776257/tile.gif",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/391776257/tile.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://a0.twimg.com/profile_images/61543340/LinkedIn-Profile_normal.jpg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/61543340/LinkedIn-Profile_normal.jpg",
+      "profile_link_color": "46758A",
+      "profile_sidebar_border_color": "2B475C",
+      "profile_sidebar_fill_color": "DDE5EB",
+      "profile_text_color": "304A57",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/bRQ44Iy3",
+          "expanded_url": "http://blogs.msdn.com/b/interoperability/archive/2011/11/07/first-stable-build-of-nodejs-on-windows-released.aspx",
+          "display_url": "blogs.msdn.com/b/interoperabiâ€¦",
+          "indices": [
+            50,
+            70
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }
+]
