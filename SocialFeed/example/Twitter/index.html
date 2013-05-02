@@ -45,11 +45,7 @@
       new SocialFeed({
           el: $('#socialfeed')
       })
-      .addModule(new SocialFeed.Modules.Disqus('mikaelbr', 'OEMdBc63xd0MZGKiVV5JgExTqdO7OSYkjgv613LJ8Py89y44pcoSKeBrelZjepVS'))
-      .addModule(new SocialFeed.Modules.Github('mikaelbr', {
-        'IssuesEvent': false
-      }))
-      .addModule(new SocialFeed.Modules.Delicious('mikaelbr'))
+      .addModule(new SocialFeed.Modules.Delicious('troy.sabin'))
       .addModule(new TwitterModule())
       .start();
     })();
